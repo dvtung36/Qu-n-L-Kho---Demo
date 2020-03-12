@@ -7,3 +7,6 @@ C:\Users\admin\Desktop\Ky 6\Thuc tap Nhom\QLKHO\QLKHO\obj\Debug\QLKHO.Properties
 C:\Users\admin\Desktop\Ky 6\Thuc tap Nhom\QLKHO\QLKHO\obj\Debug\QLKHO.csproj.GenerateResource.Cache
 C:\Users\admin\Desktop\Ky 6\Thuc tap Nhom\QLKHO\QLKHO\obj\Debug\QLKHO.exe
 C:\Users\admin\Desktop\Ky 6\Thuc tap Nhom\QLKHO\QLKHO\obj\Debug\QLKHO.pdb
+D:\GitHub\Qu-n-L-Kho---Demo\bin\Debug\QLKHO.exe.config
+D:\GitHub\Qu-n-L-Kho---Demo\obj\Debug\QLKHO.exe
+D:\GitHub\Qu-n-L-Kho---Demo\obj\Debug\QLKHO.pdb
