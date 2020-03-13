@@ -21,5 +21,12 @@ namespace QLKHO
         {
 
         }
+
+        private void btnDangnhap_Click(object sender, EventArgs e)
+        {
+            FormMain fm = new FormMain();
+            this.Hide();
+            fm.Show();
+        }
     }
 }

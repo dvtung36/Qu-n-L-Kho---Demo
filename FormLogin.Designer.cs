@@ -132,6 +132,7 @@
             this.btnDangnhap.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnDangnhap.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnDangnhap.UseVisualStyleBackColor = true;
+            this.btnDangnhap.Click += new System.EventHandler(this.btnDangnhap_Click);
             // 
             // btnThoat
             // 
@@ -159,6 +160,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.LightSteelBlue;
             this.ClientSize = new System.Drawing.Size(959, 517);
             this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.btnDangnhap);
